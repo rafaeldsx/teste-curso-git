@@ -1,4 +1,2 @@
-Testando um exemplo de arquivo.md no curso de GitHub.
-2° alteração hehehe
-Esse vai ser o sexto commmit
-Esse vai ser meu sétimo commit para teste
+# O que vou fazer agora?
+Neste commit irei verificar as alterações de um arquivo para o outro. Isto é, do arquivo .md, vulto README.md. Bem, vamos ver como isso funciona exatamente.
